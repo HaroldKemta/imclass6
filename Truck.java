@@ -1,3 +1,5 @@
+// Harold Kemta
+
 public class Truck extends Vehicle {
     // Instance variables
     private double loadCapacity;
