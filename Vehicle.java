@@ -1,3 +1,6 @@
+// Harold Kemta
+
+
 public class Vehicle {
     // Instance variables
     private String manufacturerName;
